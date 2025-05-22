@@ -1,0 +1,2 @@
+secrets.txt
+// this is where you mention the file which you dont wanna saved by git, git will ignore the files mentioned here. better for securing.
